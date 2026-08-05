@@ -1,0 +1,6 @@
+requirements:
+pyautogui
+sys  
+Keyboard  
+time 
+colorama
