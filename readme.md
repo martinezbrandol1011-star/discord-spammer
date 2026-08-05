@@ -1,4 +1,4 @@
-# Quick Spam v0.2
+# discord v0.2
 
 A simple Python CLI tool to automate typing 
 
