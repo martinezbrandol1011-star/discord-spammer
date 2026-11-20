@@ -1,3 +1,4 @@
+#THIS IS A ASS SCRIPT FROM  MOUTHS AGO JUST KEEPING IT UP TO SEE PROGRESS
 import pyautogui as py 
 import sys
 import time as ti
